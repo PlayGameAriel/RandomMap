@@ -19,7 +19,7 @@ Change the random map creation algorithm to create a map with several different 
 תיקון בקוד הקיים:
 
 
-(לא נעשה שינוי באלגוריתם עצמו, לכןאין צורך בבדיקת יחידה לאלגוריתמים)
+(לא נעשה שינוי באלגוריתם עצמו, לכן אין צורך בבדיקת יחידה לאלגוריתמים)
 
 ![image](https://user-images.githubusercontent.com/30858011/102271337-f44ea000-3f27-11eb-90d1-a5b9113dd1d0.png)
 
