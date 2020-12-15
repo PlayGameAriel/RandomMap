@@ -23,7 +23,7 @@ Change the random map creation algorithm to create a map with several different 
 
 
 
-![image](https://user-images.githubusercontent.com/30858011/102271337-f44ea000-3f27-11eb-90d1-a5b9113dd1d0.png)
+![image](https://user-images.githubusercontent.com/30858011/102272101-e8afa900-3f28-11eb-94ef-7dcf40b7a27f.png)
 
 
 
